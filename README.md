@@ -1,1 +1,1 @@
-# Tribure-site
+# Tribute-site
